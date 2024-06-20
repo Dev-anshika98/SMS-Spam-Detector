@@ -1,2 +1,2 @@
-# email-spam-classifier-new
+# SMS-spam-classifier-new
 
